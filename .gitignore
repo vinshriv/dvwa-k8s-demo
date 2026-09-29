@@ -1,0 +1,6 @@
+# Local database credentials
+k8s/mariadb-secret.yaml
+
+# Old README drafts
+README-old.md
+READMEv2.md
